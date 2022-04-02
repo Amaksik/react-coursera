@@ -1,0 +1,24 @@
+{
+  "name": "react-coursera",
+  "version": "1.0.0",
+  "description": "This is a project for learning React JS",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amaksik/react-coursera.git"
+  },
+  "author": "Anton Maksymenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amaksik/react-coursera/issues"
+  },
+  "homepage": "https://github.com/Amaksik/react-coursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
